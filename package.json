@@ -5,7 +5,7 @@
   "main": "thebot.js",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "ytdl-core": "^0.20.4"
+    "desktop-screenshot": "^0.1.1"
   },
   "devDependencies": {},
   "scripts": {
